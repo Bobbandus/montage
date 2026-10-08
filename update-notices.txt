@@ -1,0 +1,24 @@
+# Montage update notices
+# Every installed copy of Montage reads this file on start and every 4 hours.
+# Edit it right here on GitHub: changes reach users without a new release.
+#
+#   schema: N   update-system version. Raise it only if the updater itself changes in a way that
+#               older copies can't follow. Those copies then guide the user to a manual download.
+#   latest: X   newest public version. Copies newer than this count as pre-release builds and
+#               pause auto-update (so they are never downgraded).
+#
+# One notice per line:   TYPE | VERSIONS | MESSAGE | LINK (optional)
+#   TYPE      info      dismissible banner
+#             warn      banner shown every session
+#             critical  dialog on start
+#             manual    auto-update stops for these versions and the user is sent to the download
+#             ahead     marks pre-release versions (auto-update pauses)
+#             block     this version must not be used (dialog with "Download update")
+#   VERSIONS  *    0.3.0    0.3.x    <0.3.0    >=0.3.0 <0.4.0    0.2.x || 0.3.0
+#   LINK      https only (github.com, youtube.com, tiktok.com). Defaults to the latest release.
+
+schema: 1
+latest: 0.3.0
+
+info | 0.3.x | Montage 0.3 updates itself from GitHub. New in this version: A+ Studios project folders, update notices and About Montage. |
+manual | <0.3.0 | This copy of Montage has no auto-updater. Install the latest version once by hand; after that, updates install themselves. | https://github.com/Bobbandus/montage/releases/latest
