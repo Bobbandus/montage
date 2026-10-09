@@ -20,5 +20,5 @@
 schema: 1
 latest: 0.4.7
 
-info | 0.4.x | New in 0.4: click a clip edge and trim it with , and . (Shift: 5 frames), E extends to the playhead, Q/W ripple-trim. Audio scrubbing (Shift+S), fade handles in clip corners, Select forward tool (A), a level meter by the timeline, and Alt+S syncs recorder sound to camera sound by waveform. |
+info | 0.4.x | New in 0.4: click a clip edge and trim with , and . (Shift: 5 frames), J/L for live trimming, E extends to the playhead, Q/W ripple-trim. Audio scrubbing (Shift+S), fade handles, Select forward (A), level meter, Alt+S syncs recorder sound by waveform, subclips (Ctrl+U), smarter relink, marker CSV export. |
 manual | <0.3.0 | This copy of Montage has no auto-updater. Install the latest version once by hand; after that, updates install themselves. | https://github.com/Bobbandus/montage/releases/latest
