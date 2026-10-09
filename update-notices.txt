@@ -20,5 +20,5 @@
 schema: 1
 latest: 0.4.3
 
-info | 0.4.x | New in 0.4: click a clip edge to select the edit point and trim it with , and . (Shift for 5 frames); E extends it to the playhead; Q/W ripple-trim to the playhead. Hear audio while scrubbing (Shift+S toggles). Drag the small squares in each clip’s top corners to fade picture or sound. |
+info | 0.4.x | New in 0.4: click a clip edge and trim it with , and . (Shift: 5 frames), E extends to the playhead, Q/W ripple-trim. Audio scrubbing (Shift+S), fade handles in clip corners, Select forward tool (A), a level meter by the timeline, and Alt+S syncs recorder sound to camera sound by waveform. |
 manual | <0.3.0 | This copy of Montage has no auto-updater. Install the latest version once by hand; after that, updates install themselves. | https://github.com/Bobbandus/montage/releases/latest
