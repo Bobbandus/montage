@@ -18,7 +18,7 @@
 #   LINK      https only (github.com, youtube.com, tiktok.com). Defaults to the latest release.
 
 schema: 1
-latest: 0.4.5
+latest: 0.4.6
 
 info | 0.4.x | New in 0.4: click a clip edge and trim it with , and . (Shift: 5 frames), E extends to the playhead, Q/W ripple-trim. Audio scrubbing (Shift+S), fade handles in clip corners, Select forward tool (A), a level meter by the timeline, and Alt+S syncs recorder sound to camera sound by waveform. |
 manual | <0.3.0 | This copy of Montage has no auto-updater. Install the latest version once by hand; after that, updates install themselves. | https://github.com/Bobbandus/montage/releases/latest
