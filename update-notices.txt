@@ -18,7 +18,7 @@
 #   LINK      https only (github.com, youtube.com, tiktok.com). Defaults to the latest release.
 
 schema: 1
-latest: 0.3.1
+latest: 0.4.0
 
-info | 0.3.x | Montage 0.3 updates itself from GitHub. New in this version: A+ Studios project folders, update notices and About Montage. |
+info | 0.4.x | New in 0.4: click a clip edge to select the edit point, then trim it with , and . (Shift for 5 frames). E extends the edit to the playhead. |
 manual | <0.3.0 | This copy of Montage has no auto-updater. Install the latest version once by hand; after that, updates install themselves. | https://github.com/Bobbandus/montage/releases/latest
