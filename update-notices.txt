@@ -20,5 +20,5 @@
 schema: 1
 latest: 0.4.1
 
-info | 0.4.x | New in 0.4: click a clip edge to select the edit point, then trim it with , and . (Shift for 5 frames). E extends the edit to the playhead, Q/W ripple-trim the clip start/end to the playhead. || 0.4.x | New in 0.4: click a clip edge to select the edit point, then trim it with , and . (Shift for 5 frames). E extends the edit to the playhead. |
+info | 0.4.x | New in 0.4: click a clip edge to select the edit point, then trim it with , and . (Shift for 5 frames). E extends the edit to the playhead, Q/W ripple-trim the clip start/end to the playhead. |
 manual | <0.3.0 | This copy of Montage has no auto-updater. Install the latest version once by hand; after that, updates install themselves. | https://github.com/Bobbandus/montage/releases/latest
